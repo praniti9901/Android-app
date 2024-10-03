@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">BookStore</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string-array name="State">
+        <item>Maharashtra</item>
+        <item>Gujarat</item>
+        <item>Goa</item>
+    </string-array>
+    <string-array name="shipper">
+        <item>Shipper 1</item>
+        <item>Shipper 2</item>
+    </string-array>
+    <string-array name="BookName">
+        <item>Harry Potter and the Sorcerer Stone</item>
+        <item>Atomic Habits</item>
+        <item>The Republic</item>
+        <item>The Power of Habit</item>
+        <item>Meditations</item>
+        <item>The Haunting of Hill House</item>
+        <item>Dracula</item>
+        <item>The Notebook</item>
+        <item>The Art of Wa</item>
+        <item>The Very Hungry Caterpillar</item>
+        <item>Elephant and Piggie</item>
+        <item>Goodnight Moon</item>
+        <item>Artificial Intelligence: A Modern Approach</item>
+        <item>Introduction to Algorithms</item>
+        <item>Concepts of Physics</item>
+        <item>Molecular Biology of the Cell</item>
+        <item>Organic Chemistry</item>
+        <item>The 7 Habits of Highly Effective People</item>
+        <item>The Power of Now</item>
+        <item>The Paris Library</item>
+        <item>Eat that frog</item>
+        <item>The Hunger Games</item>
+        <item>Shriman Yogi</item>
+        <item>Kosala</item>
+        <item>Bhagavad Gita</item>
+        <item>Shivaji: A Historical Novel</item>
+        <item>The Life of Shivaji Maharaj</item>
+        <item>Sandman</item>
+        <item>Head First Java</item>
+        <item>Game Programming Patterns</item>
+        <item>Pro Git</item>
+        <item>Learning Python</item>
+    </string-array>
+</resources>
